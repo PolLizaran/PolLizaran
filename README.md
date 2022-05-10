@@ -12,7 +12,6 @@
 - - -
 
 ## About Me
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Data Science & Engineering at Univeritat Politècnica de Catalunya
 - 🌱 I’m currently learning Machine Learning and Data Analysis
