@@ -1,5 +1,7 @@
 
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=55&color=31CEF7&width=1200&height=100&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+a+Data+Science+Engineer+Student+;Find+me+on+the+links+below!)](https://git.io/typing-svg)</center>
+<center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=55&color=31CEF7&width=1200&height=100&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+a+Data+Science+Engineer+Student+;Find+me+on+the+links+below!)](https://git.io/typing-svg)
+</center>
 
 ## ✉️ Find me on:
 
