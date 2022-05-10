@@ -34,6 +34,6 @@
  
  ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&langs_count=5&hide=html,Beef&exclude_repo=github-readme-stats&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&langs_count=5&hide=html,Beef&exclude_repo=GPS-telegram-BOT-Project&theme=tokyonight)
  
 
