@@ -14,17 +14,12 @@
 ## About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: lizaran.pol@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying Data Science & Engineering at Univeritat Politècnica de Catalunya
+- 🌱 I’m currently learning Machine Learning and Data Analysis
+- 👯 I’m looking for internships to work on
+- 😄 Pronouns: He/Him
+- 🏀 I'm very fond of sports, specifically basketball
 
- 
- 
 - - -
 
 ##  💻 Programming known Languages  💻:
@@ -36,8 +31,10 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 </p>
  
+ - - -
  
+ ## Stats
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&hide=html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&hide=html,Beef&theme=tokyonight)
  
 
