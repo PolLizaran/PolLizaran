@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&theme=tokyonight)
+ 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=PolLizaran.PolLizaran)
