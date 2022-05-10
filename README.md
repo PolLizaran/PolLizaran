@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<center> 
+ ## Hi there 👋
+<center> 
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lizaran.pol@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&theme=tokyonight)
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&hide=html&theme=tokyonight)
  
- ![](https://visitor-badge.laobi.icu/badge?page_id=PolLizaran.PolLizaran)
+
