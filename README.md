@@ -34,6 +34,6 @@
  
  ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&langs_count=5&hide=Beef&exclude_repo=AP1,Temporal-Series&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolLizaran&langs_count=5&hide=Beef&exclude_repo=AP1,AP3,Temporal-Series&theme=tokyonight)
  
 
